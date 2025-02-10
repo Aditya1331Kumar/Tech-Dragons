@@ -3,16 +3,16 @@ import numpy as np
 from time import sleep
 
 # Vehicle Detection Variables
-largura_min = 80  # min width of rectangle
+largura_min = 80  # min width of rectangle.
 altura_min = 80  # min height of rectangle
-offset = 6  # allowed errors between the pixels
+offset = 6  # allowed errors between the pixels.
 pos_linha = 550  # position to counting line
 delay = 60  # FPS of the video
 
 detec = []
 carros = 0  # count of cars
 
-# Function to calculate the center of the vehicle
+# Function to calculate the center of the vehicle:
 def pega_centro(x, y, w, h):
     x1 = int(w / 2)
     y1 = int(h / 2)
@@ -21,7 +21,7 @@ def pega_centro(x, y, w, h):
     return cx, cy
 
 # Traffic Signal Calculation Variables
-min_time = 20  # minimum green signal time
+min_time = 20  #minimum green signal time.
 max_time = 60  # maximum green signal time
 
 # Function to calculate the green time based on the total vehicle count
