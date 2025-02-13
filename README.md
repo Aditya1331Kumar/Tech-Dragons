@@ -61,7 +61,7 @@ The AI-Based Smart Traffic Management System, integrated with Violence Detection
 ## Installation & Setup
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-repo/Smart-Traffic-Violence-Detection.git
+   [git clone https://github.com/your-repo/Smart-Traffic-Violence-Detection.git](https://github.com/Aditya1331Kumar/Tech-Dragons)
    cd Smart-Traffic-Violence-Detection
    ```
 2. **Install Dependencies:**
@@ -80,11 +80,11 @@ The AI-Based Smart Traffic Management System, integrated with Violence Detection
 ---
 
 ## Contributors
-- **Aditya Kumar** (Lead Developer & AI Engineer)
-- **Member 2** (Backend & Deployment Specialist)
-- **Member 3** (Hardware & IoT Engineer)
-- **Member 4** (AI Model Training & Data Analyst)
-- **Member 5** (UI/UX & Public Awareness Strategy)
+- **Aditya kumar Gupta**
+- **Aditya Pawar** 
+- **Shreyansh Gupta** 
+- **Jagriti Upadhyay** 
+- **Jagriti yadav** 
 
 ---
 
