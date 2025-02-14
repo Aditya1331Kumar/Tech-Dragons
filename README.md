@@ -114,6 +114,14 @@ Our system is not just an enhancement to existing infrastructure—it is a **gam
 
 ---
 
+## Violence Detection System
+Our violence detection system has been **successfully deployed**, offering real-time threat detection and alerts to ensure public safety.
+
+[Live Deployment](https://violence-detection-sujhutfjkbkjpjpknjotru.streamlit.app/)
+
+Experience real-time AI-powered surveillance designed for smart city security.
+
+
 ## Installation & Setup
 1. **Clone the Repository:**
    ```sh
