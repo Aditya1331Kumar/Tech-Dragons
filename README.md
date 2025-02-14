@@ -23,7 +23,7 @@ The AI-Based Smart Traffic Management System, integrated with Violence Detection
 ---
 
 ## Process Flow Diagram
-![Process Flow Diagram]([https://github.com/Aditya1331Kumar/Tech-Dragons/blob/main/Process_Flow_Diagram.jpg](https://github.com/Aditya1331Kumar/Tech-Dragons/blob/main/Process%20Flow%20Diagram.jpg))
+![Process Flow Diagram](https://github.com/Aditya1331Kumar/Tech-Dragons/blob/main/Process%20Flow%20Diagram.jpg)
 
 
 ### Detailed Steps
