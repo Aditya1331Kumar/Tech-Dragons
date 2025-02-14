@@ -23,7 +23,7 @@ The AI-Based Smart Traffic Management System, integrated with Violence Detection
 ---
 
 ## Process Flow Diagram
-![Process Flow Diagram](process_flow_diagram.jpg)
+![Process Flow Diagram](Process_Flow_Diagram.jpg)
 
 ### Detailed Steps
 1. **Data Collection:** 
