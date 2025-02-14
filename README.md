@@ -22,6 +22,32 @@ The AI-Based Smart Traffic Management System, integrated with Violence Detection
 
 ---
 
+## Process Flow Diagram
+![Process Flow Diagram](process_flow_diagram.jpg)
+
+### Detailed Steps
+1. **Data Collection:** 
+   - Real-time inputs from CCTV cameras and IoT sensors.
+   - Traffic density monitoring and behavioral data collection.
+
+2. **Data Processing:**
+   - Extracting vehicle types, traffic patterns, and potential safety threats.
+   - AI-based pattern recognition to detect anomalies.
+
+3. **AI Analysis:**
+   - Optimizes signal phases based on real-time congestion.
+   - Identifies suspicious activities and triggers necessary alerts.
+
+4. **Outputs & Actions:**
+   - Dynamic signal adjustments for efficient traffic flow.
+   - Real-time emergency vehicle clearance.
+   - Instant alerts with geotagged evidence sent to law enforcement.
+
+5. **Feedback Loop:**
+   - Continuous system learning and updates for improved accuracy.
+
+---
+
 ## Features
 - **Smart Traffic Signal Management:** Uses AI to analyze real-time traffic density and adjust signals dynamically.
 - **Violence Detection System:** Detects suspicious activities such as harassment, theft, and violence using AI-powered object recognition.
