@@ -5,7 +5,12 @@
 ---
 
 ## Problem Statement
-In India, over 25,000 lives were lost in 2024 due to delayed emergency responses and traffic congestion. Additionally, 73% of urban residents face challenges in receiving timely medical assistance and ensuring public safety, particularly for women. The inefficiency of traditional traffic management systems and the lack of proactive surveillance mechanisms exacerbate these issues.
+AI-based Smart Traffic Management System along with 
+the capability to detect suspect and suspicious activities 
+(Specially for Women Safety-1090).
+
+
+Urban Areas Face Rising Traffic Congestion Due To Rapid Urbanization, Vehicular Congestion And Complex City Layouts Making Traffic Management Inefficient. Simultaneously, Public Safety Especially For Women, Remains A Major Concern As Lack Of Advanced Monitoring Leads To Delayed Law Enforcement Response, Increasing Risks Of Harassment And Criminal Activities.
 
 ## Proposed Solution
 Our AI-based Smart Traffic Management and Violence Detection System aims to solve these problems by integrating real-time surveillance, AI-powered behavioral analytics, and automated traffic control. The system dynamically optimizes traffic flow, prioritizes emergency vehicles, and identifies suspicious activities to enhance urban safety and efficiency.
