@@ -114,32 +114,58 @@ Our system is not just an enhancement to existing infrastructure—it is a **gam
 
 ---
 
+# Smart Signal Management
+
+This project helps analyze vehicle density crossing a particular line in a given video using OpenCV and NumPy.
+
+## Requirements
+Ensure you have Python installed on your system. The required dependencies are:
+- OpenCV
+- NumPy
+
+## Installation
+
+1. **Open the terminal**
+2. Install the required dependencies:
+   ```bash
+   pip install opencv-python numpy
+   ```
+3. Run the script:
+   ```bash
+   python smart_signal_management.py
+   ```
+4. When prompted, enter the path to the video file. For example:
+   ```
+   video.mp4
+   ```
+5. A box will appear, showing the calculation of the number of vehicles detected.
+6. The output, including vehicle count, will be displayed in the terminal.
+
+## Example Usage
+```bash
+python smart_signal_management.py
+Enter the video file: video.mp4
+```
+
+## Output
+- A window will display the video with the detection mechanism.
+- The terminal will show the number of vehicles crossing the designated line.
+
+## Notes
+- Ensure the video file is present in the working directory.
+
+
+---
+
+
 ## Violence Detection System
 Our violence detection system has been **successfully deployed**, offering real-time threat detection and alerts to ensure public safety.
 
 [Live Deployment](https://violence-detection-sujhutfjkbkjpjpknjotru.streamlit.app/)
 
+Just drag the video or image and see the output.
 Experience real-time AI-powered surveillance designed for smart city security.
 
-
-## Installation & Setup
-1. **Clone the Repository:**
-   ```sh
-   [git clone https://github.com/your-repo/Smart-Traffic-Violence-Detection.git](https://github.com/Aditya1331Kumar/Tech-Dragons)
-   cd Smart-Traffic-Violence-Detection
-   ```
-2. **Install Dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. **Run the Smart Traffic Signal Management System:**
-   ```sh
-   python smart_signal_management.py
-   ```
-4. **Run the Violence Detection System:**
-   ```sh
-   python violence_Detection.py
-   ```
 
 ---
 
