@@ -49,6 +49,26 @@ The AI-Based Smart Traffic Management System, integrated with Violence Detection
 
 ---
 
+
+# Requirements
+
+- **tensorflow**
+- **streamlit**
+- **opencv-python-headless**
+- **numpy**
+- **pillow**
+- **Networking Modules (Ethernet/Wi-Fi)**
+- **Python**
+- **OpenCV**
+- **YOLOv8**
+- **PyTorch**
+- **Flask**
+- **SQLite**
+- **MySQL**
+- **I3D Model for Violence Detection**
+
+---
+
 ## Features
 - **Smart Traffic Signal Management:** Uses AI to analyze real-time traffic density and adjust signals dynamically.
 - **Violence Detection System:** Detects suspicious activities such as harassment, theft, and violence using AI-powered object recognition.
